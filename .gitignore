@@ -1,0 +1,14 @@
+# 来自 github/gitignore/Python.gitignore
+__pycache__/
+*.py[cod]
+*.egg-info/
+.dist/
+build/
+dist/
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# Jupyter & reports
+site/
